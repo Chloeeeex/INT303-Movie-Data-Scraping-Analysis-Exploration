@@ -19,7 +19,7 @@ The project consists of two main components:
 2. **Exploratory Data Analysis (EDA):** Analyzing trends and patterns in movie data to understand audience preferences, financial performance, and runtime variations.
 
 ## Data Collection
-The movie data is collected using **Request and BeautifulSoup** for web scraping from TMDb.      
+The movie data is collected using **Request and BeautifulSoup** for web scraping from TMDb.
 The process involves:
 - Extracting movie URLs dynamically by navigating through multiple pages.
 - Parsing movie details such as **title, release year, user ratings, description, genre, director, screenplay, revenue, and budget**.
