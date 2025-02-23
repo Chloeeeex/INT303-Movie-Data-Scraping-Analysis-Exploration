@@ -49,16 +49,25 @@ To ensure high-quality analysis, **data transformation** is also performed, incl
 - Investigates how different **movie genres** impact **user ratings**.
 - Uses **box plots and bar charts** to visualize the distribution of ratings across genres.
 - Highlights genres with consistently **high or low audience ratings**.
+<img width="500" alt="Screenshot 2025-02-23 at 15 26 29" src="https://github.com/user-attachments/assets/3e317c6f-65ed-474a-ba33-da449b30be60" />
+<img width="500" alt="Screenshot 2025-02-23 at 15 27 29" src="https://github.com/user-attachments/assets/6b490fa8-8373-44e8-a2ef-a6180a1f4453" />
+
 
 ### **2. Relationship Between Movie Genres and Return on Investment (RIO)**
 - Analyzes how **financial performance varies across movie genres**.
 - Computes **RIO (Return on Investment) as (Revenue - Budget) / Budget**.
 - Identifies **profitable and underperforming genres** through statistical analysis and **line charts**.
+<img width="600" alt="Screenshot 2025-02-23 at 15 29 09" src="https://github.com/user-attachments/assets/45809bfc-497d-4d24-8a05-874e20f23525" />
+
+
 
 ### **3. Relationship Between Movie Duration and Genres**
 - Studies how **runtime varies across different movie genres**.
-- Uses **histograms and box plots** to examine **average movie length per genre**.
-- Highlights **which genres tend to have longer or shorter movies**.
+- Uses **line charts and box plots** to examine **average movie length per genre**.
+- Identify **which genres tend to have longer or shorter movies**.
+<img width="500" alt="Screenshot 2025-02-23 at 15 30 41" src="https://github.com/user-attachments/assets/dd9b9943-d0f5-421c-8af3-156b398ba66c" />
+<img width="500" alt="Screenshot 2025-02-23 at 15 30 54" src="https://github.com/user-attachments/assets/09ea24ac-6f69-4202-b2f7-d32322cc03af" />
+
 
 
 ## Results and Insights
