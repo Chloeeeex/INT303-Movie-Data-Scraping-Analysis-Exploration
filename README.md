@@ -82,3 +82,5 @@ To ensure high-quality analysis, **data transformation** is also performed, incl
 - **Sentiment Analysis:** Analyze **user reviews and comments** to understand audience opinions beyond numerical ratings.
 - **Machine Learning Models:** Implement **predictive models** to forecast **movie success based on historical data**.
 - **Streaming Platform Data:** Compare **box office movies with streaming-exclusive releases** to explore new trends.
+
+*PS. The overall architecture and core logic of this code were conceived by me, with AI assisting in optimization implementation.*
